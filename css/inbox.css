@@ -9,13 +9,15 @@ body{
     color: #fff;
 }
 .container-wrapper{
-    border: 2px solid blueviolet;
+    /* border: 2px solid blueviolet; */
     margin-top: 2rem;
 }
 .container{
     max-width: 1200px;
     width: 90vh;
     border: 2px solid #222;
+    border-top-left-radius: 0.8rem;
+    border-top-right-radius: 0.8rem;
     margin: 0 auto;
 }
 h2{
@@ -30,7 +32,7 @@ h2{
 .food, .snake{
     border: 1px solid whitesmoke;
     /* border-style: none; */
-    background: lightsalmon;
-    border-radius: 0.8rem;
+    background: rgb(51, 22, 11);
+    /* border-radius: 0.8rem; */
     display: inline-block;
 }
