@@ -27,3 +27,9 @@ h2{
     border-top: 2px solid #222;
     height: 90rem;
 }
+.food, .snake{
+    border: 1px solid whitesmoke;
+    border-style: none;
+    background: lightsalmon;
+    border-radius: 0.8rem;
+}
