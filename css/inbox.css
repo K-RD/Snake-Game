@@ -20,19 +20,24 @@ body{
     border-top-right-radius: 0.8rem;
     margin: 0 auto;
 }
+.box{
+    background: #555;
+}
 h2{
     text-transform: uppercase;
     font-size: 2rem;
     text-align: center;
+    padding: 0.6rem;
 }
 .board{
     border-top: 2px solid #222;
     height: 50rem;
+    background-color: bisque;
 }
 .food, .snake{
     border: 1px solid whitesmoke;
     /* border-style: none; */
-    background: rgb(51, 22, 11);
+    background: #fff;
     /* border-radius: 0.8rem; */
     display: inline-block;
 }
