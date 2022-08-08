@@ -1,6 +1,7 @@
 *,*::before,*::after{
     margin: 0;
     box-sizing: border-box;
+    font-size: 62.5%;
 }
 body{
     background: #999;
@@ -19,4 +20,6 @@ body{
 }
 h2{
     text-transform: uppercase;
+    font-size: 1.6rem;
+    text-align: center;
 }
