@@ -29,7 +29,8 @@ h2{
 }
 .food, .snake{
     border: 1px solid whitesmoke;
-    border-style: none;
+    /* border-style: none; */
     background: lightsalmon;
     border-radius: 0.8rem;
+    display: inline-block;
 }
