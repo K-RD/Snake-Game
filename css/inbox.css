@@ -41,3 +41,12 @@ h2{
     /* border-radius: 0.8rem; */
     display: inline-block;
 }
+.food{
+    height: 1rem;
+    width: 1rem;
+    border-radius: 50%;
+}
+.snake{
+    height: 2.5rem;
+    width: 1.3rem;
+}
