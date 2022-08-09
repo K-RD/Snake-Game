@@ -35,18 +35,20 @@ h2{
     background: #757575;
 }
 .food, .snake{
-    border: 1px solid whitesmoke;
-    background: #fff;
     color: black;
     text-align: center;
+    display: absolute;
 }
 .food{
-    height: 1rem;
-    width: 1rem;
+    height: 1.5rem;
+    width: 1.5rem;
+    background: #ee3946;
     border-radius: 50%;
-    /* margin-left: 20px; */
 }
 .snake{
     height: 2.5rem;
     width: 1.3rem;
+    background: #34a;
+    border-top-right-radius: 0.8rem;
+    border-top-left-radius: 0.8rem;
 }

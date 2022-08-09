@@ -4,3 +4,6 @@ and method-2 is Margin system
 
 # Method 1 - Grid System
 In this system we will make different grids in the 
+
+# Reference
+https://www.educative.io/blog/javascript-snake-game-tutorial
