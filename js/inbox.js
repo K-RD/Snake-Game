@@ -4,7 +4,7 @@
 /* Method::2 - Even this can be done using grid system, where we will add different boxes for food & snake ,
  if food is in same grid as snake then it will initiate another event  */
 let board = document.getElementById("board");
-let boardHeight = board.
+// let boardHeight = board.                             continue from here....
 
 
 function foodPlace(){
